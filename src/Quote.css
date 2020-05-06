@@ -15,23 +15,28 @@ body {
 .text {
     text-align: center;
     font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
 }
 
 .author {
     font-size: 18px;
     text-align: right;
     margin-right: 20%;
+    font-family: 'Lora', serif;
 }
 
 .twitter {
     color: white;
     text-decoration: none;
     text-align: left;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .new-quote {
     float: right;
     box-shadow: 2px 2px grey;
+    font-family: 'Open Sans', sans-serif;
 }
 
 @media screen and (min-width: 680px) {
