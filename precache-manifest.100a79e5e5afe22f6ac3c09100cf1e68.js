@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c848fd0a5380feb84e01edceed1866b2",
+    "revision": "50047dd2a5047c9acf353ad9c5e5dc79",
     "url": "/quote-machine/index.html"
   },
   {
-    "revision": "985038cae1438b4e10f7",
-    "url": "/quote-machine/static/css/main.cd17c672.chunk.css"
+    "revision": "a21ceeebe2ecbc9273ef",
+    "url": "/quote-machine/static/css/main.d10bc5eb.chunk.css"
   },
   {
     "revision": "0a86be2e57cb6620c1a1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quote-machine/static/js/2.7520ed6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "985038cae1438b4e10f7",
-    "url": "/quote-machine/static/js/main.0aa1805d.chunk.js"
+    "revision": "a21ceeebe2ecbc9273ef",
+    "url": "/quote-machine/static/js/main.5f9dc103.chunk.js"
   },
   {
     "revision": "aae0ce78e2995d5dba4d",
